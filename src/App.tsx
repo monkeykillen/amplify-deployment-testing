@@ -8,7 +8,7 @@ const App = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is the master branch
+          This is the development branch
         </p>
         <a
           className="App-link"
